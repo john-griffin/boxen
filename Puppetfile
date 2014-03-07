@@ -56,3 +56,5 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "java",        "1.1.4", :repo => "upworthy/puppet-java"
