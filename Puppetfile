@@ -58,3 +58,4 @@ github "xquartz",     "1.1.1"
 # https://github.com/boxen.
 
 github "java",        "1.1.4", :repo => "upworthy/puppet-java"
+github "chrome",      "1.1.2", :repo => "boxen/puppet-chrome"
